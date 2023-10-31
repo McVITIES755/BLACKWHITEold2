@@ -97,8 +97,8 @@ let allMusic = [
     {
       name: "Locked Out Of Heaven",
       artist: "Bruno Mars",
-      img: "images/Locked-Out-Of-Heaven.jpg",
-      src: "Locked-Out-Of-Heaven"
+      img: "images/Locked-Out-Of-heaven.jpg",
+      src: "Locked-Out-Of-heaven"
     },
     {
       name: "Moves Like Jagger",
